@@ -1,8 +1,8 @@
 # PD-CGGS
 
-This repository holds the code for the paper
+This repository will hold the PyTorch code of our paper **Causality-Enhanced Multiple Instance Learning with Graph Convolutional Networks for Parkinsonian Freezing-of-Gait Assessment**.
 
-**Causality-Enhanced Multiple Instance Learning with Graph Convolutional Networks for Parkinsonian Freezing-of-Gait Assessment**
+The complete codes will be released once the paper is published.
 
 All the materials released in this library can ONLY be used for RESEARCH purposes and not for commercial use.
 
